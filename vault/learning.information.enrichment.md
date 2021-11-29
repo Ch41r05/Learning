@@ -13,4 +13,4 @@ created: 1637850691583
 
 #### [[Parallel|learning.information.enrichment.parallel]]
 
-#### [[Interconnected|learning.information.enrichment.interconnected]]
+#### [[Web|learning.information.enrichment.web]]
