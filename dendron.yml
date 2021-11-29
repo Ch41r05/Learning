@@ -20,6 +20,7 @@ site:
         payload:
             - vault
             - dendron.templates
+    siteUrl: https://ch41r05.github.io
 commands:
     lookup:
         note:
