@@ -2,9 +2,15 @@
 id: tQpI5q7IcFcmkZASa6nAp
 title: Enrichment
 desc: ''
-updated: 1638183397895
+updated: 1638192286664
 created: 1637850691583
 ---
 # Enrichment
 
 ## What's enrichment?
+
+#### [[Serial|learning.information.enrichment.serial]]
+
+#### [[Parallel|learning.information.enrichment.parallel]]
+
+#### [[Interconnected|learning.information.enrichment.interconnected]]
