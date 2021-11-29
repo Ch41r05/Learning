@@ -2,11 +2,13 @@
 id: hQ6radJRAA03YtPu417oS
 title: Memorization
 desc: ''
-updated: 1637859762453
+updated: 1638183435994
 created: 1637855982953
 ---
 # Memorization
 
 ## How memorization works: a breakdown
 
-[[Feeling|learning.memorization.feeling]]
+![](/assets/images/Knowledge.png)
+
+#### [[Feeling|learning.memorization.feeling]]
