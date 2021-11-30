@@ -1,7 +1,5 @@
 # From Zero to Hero
 
-# From Zero to Hero
-
 _A rational guide to learning_
 
 ## Disclaimer
