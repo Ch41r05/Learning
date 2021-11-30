@@ -1,7 +1,5 @@
 # Learning
 
-# Learning
-
 ## How learning works: a breakdown
 
 ![](/assets/images/learning.png)

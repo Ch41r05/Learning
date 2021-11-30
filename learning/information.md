@@ -1,7 +1,5 @@
 # Information
 
-# Information
-
 ## How information works: a breakdown
 
 ![](/assets/images/information.png)

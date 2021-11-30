@@ -1,7 +1,5 @@
 # Granularity
 
-# Granularity
-
 ## What's granularity?
 
 #### [Particular](/learning/information/granularity/particular)

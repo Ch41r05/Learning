@@ -1,7 +1,5 @@
 # Data
 
-# Data
-
 ## How data works: a breakdown
 
 ![](/assets/images/data.png)

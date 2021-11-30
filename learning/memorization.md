@@ -1,7 +1,5 @@
 # Memorization
 
-# Memorization
-
 ## How memorization works: a breakdown
 
 ![](/assets/images/knowledge.png)
