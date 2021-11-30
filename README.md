@@ -10,7 +10,7 @@ The purpose of this document is to make the natural processes our mind goes thro
 
 This document is directed towards readers that wish to dive deeper into learning mechanisms and techniques to improve information acquisition accuracy and recollection. The data contained in this elaborate is the product of reserch and empirical considerations when teaching others so please consider contributing by submitting any observation or constructive criticism.
 
-Without further ado you're now ready to embark in the [Learning](/blob/main/learning.md) journey.
+Without further ado you're now ready to embark in the [Learning](/learning.md) journey.
 
 ##### References
 
