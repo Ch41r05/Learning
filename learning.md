@@ -4,7 +4,7 @@
 
 ![](/assets/images/learning.png)
 
-By learning, we refer to the process of converting acquired [data](/learning.data.md) to thoughts or actions which can be recalled or replicated at will with minimum effort.
+By learning, we refer to the process of converting acquired [data](/learning/data.md) to thoughts or actions which can be recalled or replicated at will with minimum effort.
 The process could be divided into four main subprocesses:
 
 ##### Collection
