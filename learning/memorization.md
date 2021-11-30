@@ -4,6 +4,6 @@
 
 ![](/assets/images/knowledge.png)
 
-#### [Feeling](/learning/memorization/feeling)
+#### [Feeling](/learning.memorization.feeling.md)
 
-#### [Muscle Memory](/learning/memorization/muscle-memory)
+#### [Muscle Memory](/learning.memorization.muscle-memory.md)

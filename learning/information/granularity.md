@@ -2,6 +2,6 @@
 
 ## What's granularity?
 
-#### [Particular](/learning/information/granularity/particular)
+#### [Particular](/learning.information.granularity.particular.md)
 
-#### [General](/learning/information/granularity/general)
+#### [General](/learning.information.granularity.general.md)
