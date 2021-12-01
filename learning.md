@@ -4,6 +4,8 @@
 
 _A clean example of how the learning process should NOT go_
 
+## About Learning
+
 By learning, we refer to the process of converting acquired [data](/learning/data.md) to thoughts or actions which can be recalled or replicated at will with minimum effort.
 The process could be divided into four main subprocesses:
 
@@ -25,4 +27,4 @@ Once able to [replicate](/learning/replication.md) [memorized](/learning/memoriz
 
 ### The difference between persistance and recollection
 
-One thing to keep in mind when approaching learning methodologies, is that the concept of persistance and recollection are not necessarily linked. Did it ever happen to you that you could not remember something when you needed it, but it suddenly came to mind at anoter random time? Just think about it. The problem here is not that you didn't [memorize](/learning/memorization.md) but that you couldn't _remember_. So, with this simple example we could grasp that when we think we don't remember something, the problem may or may not lie in the fact that we haven't [memorized](/learning/memorization.md) it.
+One thing to keep in mind when approaching learning methodologies, is that the concept of persistance and recollection are not necessarily linked. Did it ever happen to you that you could not remember something when you needed it, but it suddenly came to mind at another random time? Just think about it. The problem here is not that you didn't [memorize](/learning/memorization.md) but that you couldn't _remember_. So, with this simple example we could grasp that when we think we don't remember something, the problem may or may not lie in the fact that we haven't [memorized](/learning/memorization.md) it.
