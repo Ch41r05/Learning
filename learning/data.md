@@ -4,10 +4,10 @@
 
 ![](/assets/images/data.png)
 
-##### [Medium](/learning.data.medium.md)
+##### [Medium](/learning/data/medium.md)
 
 What is the main vector from which we mainly acquire informations?
 
-##### [Context](/learning.data.context.md)
+##### [Context](/learning/data/context.md)
 
-##### [Environment](/learning.data.environment.md)
+##### [Environment](/learning/data/environment.md)
