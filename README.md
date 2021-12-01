@@ -1,5 +1,7 @@
 # From Zero to Hero
 
+![](/assets/images/noble.png)
+
 _A rational guide to learning_
 
 ## Disclaimer
