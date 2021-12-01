@@ -1,6 +1,7 @@
 # How learning works: a breakdown
 
 ![](/assets/images/learning.png)
+
 _A clean example of how the learning process should NOT go_
 
 By learning, we refer to the process of converting acquired [data](/learning/data.md) to thoughts or actions which can be recalled or replicated at will with minimum effort.
