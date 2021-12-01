@@ -1,25 +1,25 @@
 # Learning
 
-## How learning works: a breakdown
+# How learning works: a breakdown
 
 ![](/assets/images/learning.png)
 
 By learning, we refer to the process of converting acquired [data](/learning/data.md) to thoughts or actions which can be recalled or replicated at will with minimum effort.
 The process could be divided into four main subprocesses:
 
-#### Collection
+## Collection
 
 [Data](/learning/data.md) is acquired in a given [context](/learning/data/context.md) and [environment](/learning/data/environment.md).
 
-#### Persistance
+### Persistance
 
 [Data](/learning/data.md) is converted to [information](/learning/information.md) and then [memorized](/learning/memorization.md).
 
-#### Recollection
+### Recollection
 
 [Memorized](/learning/memorization.md) [information](/learning/information.md) needs to be available to be [replicated](/learning/replication.md).
 
-#### Confidence
+### Confidence
 
 Once able to [replicate](/learning/replication.md) [memorized](/learning/memorization.md) [information](/learning/information.md), the aim is to minimize the time and effort needed. This could be acchieved by [customization](/learning/customization.md) and [optimization](/learning/optimization.md).
 
