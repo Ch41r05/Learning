@@ -11,7 +11,7 @@ This process could be divided into four main subprocesses.
 
 ## Collection
 
-[Data](/learning/data.md) is acquired in a given [context](/learning/data/context.md) and [environment](/learning/data/environment.md).
+[Data](/learning/data.md) is acquired in a given [context](/learning/data/context.md) and [environment](/learning/data/environment.md) by the means of one or more [mediums](/learning/data/medium.md).
 
 ## Persistance
 
