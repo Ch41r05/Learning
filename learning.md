@@ -9,11 +9,11 @@ The process could be divided into four main subprocesses:
 
 ##### Collection
 
-[Data](/learning/data/md) is acquired in a given [context](/learning/data/context.md) and [environment](/learning/data/environment.md).
+[Data](/learning/data.md) is acquired in a given [context](/learning/data/context.md) and [environment](/learning/data/environment.md).
 
 ##### Persistance
 
-[Data](/learning/data/md) is converted to [information](/learning/information.md) and then [memorized](/learning/memorization.md).
+[Data](/learning/data.md) is converted to [information](/learning/information.md) and then [memorized](/learning/memorization.md).
 
 ##### Recollection
 
