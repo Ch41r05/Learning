@@ -12,6 +12,6 @@ This document is directed towards readers that wish to dive deeper into learning
 
 Without further ado you're now ready to embark in the [Learning](/learning.md) journey.
 
-##### References
+#### References
 
-[COntext INference Model](/https://www/cam/ac/uk/research/news/for-the-brain-context-is-key-to-new-theory-of-movement-and-memory) (University of Cambridge)
+[COntext INference Model](https://www.cam.ac.uk/research/news/for-the-brain-context-is-key-to-new-theory-of-movement-and-memory) (University of Cambridge)
