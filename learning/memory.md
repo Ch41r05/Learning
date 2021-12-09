@@ -6,7 +6,7 @@
 
 #### [Feeling](/learning/memory/feeling.md)
 
-#### [Motor Memory](/learning/memory/motor-memory.md)
+#### [Motor Memory](/learning/memory/motor.md)
 
 ##### Resources
 
