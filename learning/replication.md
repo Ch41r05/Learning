@@ -2,6 +2,6 @@
 
 ## How replication works: a breakdown
 
-#### [Muscle Memory](/learning/memorization/muscle-memory.md)
+#### [Motor Memory](/learning/memory/motor.md)
 
 #### [Trigger](/learning/stimulus/trigger.md)
